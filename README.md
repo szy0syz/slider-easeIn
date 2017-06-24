@@ -1,2 +1,3 @@
-# slider
-javascript slider
+# slider-easeIn
+
+> JavaScript Primitive Slider
